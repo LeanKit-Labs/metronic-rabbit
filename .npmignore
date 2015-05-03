@@ -1,0 +1,12 @@
+demo/
+tmp/
+node_modules/
+log/
+spec/
+plato/
+coverage/
+.editorconfig
+.esformatter
+.jshintrc
+gulpfile.js
+.gitignore

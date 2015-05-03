@@ -1,0 +1,47 @@
+{
+  "name": "metronic-rabbit",
+  "version": "0.1.0",
+  "description": "Rabbit adapters for metronic",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeanKit-Labs/metronic-rabbit"
+  },
+  "keywords": [
+    "metronic",
+    "metrics",
+    "rabbit"
+  ],
+  "author": "LeanKit",
+  "contributors": [
+    {
+      "name": "Alex Robson",
+      "url": "http://nerdventure.io"
+    }
+  ],
+  "license": "MIT License - http://opensource.org/licenses/MIT",
+  "bugs": {
+    "url": "https://github.com/LeanKit-Labs/metronic-rabbit/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/LeanKit-Labs/metronic-rabbit",
+  "devDependencies": {
+    "biggulp": "~0.0.2",
+    "chai": "^2.1.1",
+    "chai-as-promised": "^4.3.0",
+    "gulp": "^3.8.11",
+    "metronic": "^0.2.1",
+    "proxyquire": "^1.4.0",
+    "sinon": "^1.14.1",
+    "when": "^3.7.3"
+  },
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "wascally": "^0.2.5"
+  }
+}
