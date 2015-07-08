@@ -1,6 +1,6 @@
 {
   "name": "metronic-rabbit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rabbit adapters for metronic",
   "main": "src/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
       "url": "http://nerdventure.io"
     }
   ],
-  "license": "MIT License - http://opensource.org/licenses/MIT",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/LeanKit-Labs/metronic-rabbit/issues"
   },
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/LeanKit-Labs/metronic-rabbit",
   "devDependencies": {
-    "biggulp": "~0.0.2",
+    "biggulp": "~0.2.0",
     "chai": "^2.1.1",
     "chai-as-promised": "^4.3.0",
     "gulp": "^3.8.11",
