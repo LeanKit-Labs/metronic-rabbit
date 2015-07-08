@@ -1,9 +1,9 @@
-var chai = require( 'chai' );
-chai.use( require( 'chai-as-promised' ) );
+var chai = require( "chai" );
+chai.use( require( "chai-as-promised" ) );
 global.should = chai.should();
 global.expect = chai.expect;
-global._ = require( 'lodash' );
-global.fs = require( 'fs' );
-global.sinon = require( 'sinon' );
-global.proxyquire = require( 'proxyquire' ).noPreserveCache();
-global.when = require( 'when' );
+global._ = require( "lodash" );
+global.fs = require( "fs" );
+global.sinon = require( "sinon" );
+global.proxyquire = require( "proxyquire" ).noPreserveCache();
+global.when = require( "when" );
