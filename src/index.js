@@ -1,6 +1,6 @@
 var convert;
 var _ = require( "lodash" );
-var rabbit = require( "wascally" );
+var rabbit = require( "rabbot" );
 
 var publisherDefaults = {
 	fanout: "metronic-all-ex",

@@ -288,7 +288,7 @@ function getSetup() {
 		}
 	};
 	var adapters = proxyquire( "../src/index", {
-		wascally: rabbitMock
+		rabbot: rabbitMock
 	} );
 	return {
 		rabbit: rabbitMock,
