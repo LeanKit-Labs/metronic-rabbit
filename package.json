@@ -1,6 +1,6 @@
 {
   "name": "metronic-rabbit",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Rabbit adapters for metronic",
   "main": "src/index.js",
   "scripts": {
