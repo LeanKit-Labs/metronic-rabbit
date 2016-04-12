@@ -1,5 +1,8 @@
 ## 0.2.x
 
+### 0.2.1
+ * Update rabbot version to 1.0.0-8
+
 ### 0.2.0
  * Switched from `wascally` to `rabbot` for connecting to RabbitMQ
 
