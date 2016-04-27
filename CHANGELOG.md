@@ -1,5 +1,8 @@
 ## 0.2.x
 
+### 0.2.2
+* Updated rabbot to -9 pre and metronic to 0.2.5
+
 ### 0.2.1
  * Update rabbot version to 1.0.0-8
 
